@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: babel-block-python
+# key: babelpy
+# contributor: B.S. Chambers
+# --
+#+BEGIN_SRC python :classname example
+$0
+#+END_SRC

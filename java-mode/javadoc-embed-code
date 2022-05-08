@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: doc-embed-code
+# key: code
+# --
+{@code $1}$0

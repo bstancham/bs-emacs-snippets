@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: javadoc-todo
+# key: todo
+# contributor: B.S. Chambers
+# --
+* <p>TODO: $0</p>

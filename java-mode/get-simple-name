@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: get-class-simple-name
+# key: gsn
+# --
+getClass().getSimpleName()$0

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: babel-block
+# key: babel
+# contributor: B.S. Chambers
+# --
+#+BEGIN_SRC $0
+
+#+END_SRC

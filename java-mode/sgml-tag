@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sgml-tag
+# key: <
+# --
+<${1:tag-name}>$0</$1>

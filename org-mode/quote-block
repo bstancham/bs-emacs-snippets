@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: quote-block
+# key: quote
+# contributor: B.S. Chambers
+# --
+#+BEGIN_QUOTE
+$0
+#+END_QUOTE

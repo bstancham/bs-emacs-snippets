@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: getter-and-setter
+# key: getset
+# --
+public ${1:type} get${2:Name}() {
+return $2;
+}
+
+public void set$2($1 val) {
+$2 = val;
+}

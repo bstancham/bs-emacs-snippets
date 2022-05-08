@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: example-block
+# key: example
+# contributor: B.S. Chambers
+# --
+#+BEGIN_EXAMPLE
+$0
+#+END_EXAMPLE

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: babel-block-java
+# key: babeljav
+# contributor: B.S. Chambers
+# --
+#+BEGIN_SRC java :classname example
+$0
+#+END_SRC
